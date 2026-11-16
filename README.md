@@ -1,4 +1,4 @@
-# Phone Video Studio
+# KingsleyAI Phone Studio
 
 Make Reels, TikToks and Shorts by texting Claude from your phone. Claude writes the video, renders
 the MP4, and sends it back to you in the chat.
