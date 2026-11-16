@@ -1,0 +1,12 @@
+{
+  "name": "phone-video-studio",
+  "private": true,
+  "description": "Make Reels, TikToks and Shorts from the Claude app on your phone.",
+  "scripts": {
+    "setup": "bash tools/setup.sh",
+    "render:example": "node tools/render.js projects/example-reel exports/example-reel.mp4"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}
